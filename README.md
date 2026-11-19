@@ -1,0 +1,8 @@
+# Terraform CI Validation
+
+This project validates Terraform code automatically using GitHub Actions.
+
+## Checks
+
+- terraform fmt
+- terraform validate
